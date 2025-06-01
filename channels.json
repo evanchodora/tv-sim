@@ -1,0 +1,28 @@
+{
+  "channels": [
+    {
+      "name": "All Bluey",
+      "directory": "All Bluey"
+    },
+    {
+      "name": "Miami Vice",
+      "directory": "Miami Vice"
+    },
+    {
+      "name": "Psych Two",
+      "directory": "Psych 2"
+    },
+    {
+      "name": "Psych Three",
+      "directory": "Psych 3"
+    },
+    {
+      "name": "Scooby-Doo",
+      "directory": "Scooby-Doo"
+    },
+    {
+      "name": "Seinfeld",
+      "directory": "Seinfeld"
+    }
+  ]
+}
